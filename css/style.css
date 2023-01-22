@@ -1,0 +1,38 @@
+body{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    color:pink;
+}
+body:hover{
+    color:greenyellow;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+}
+
+p{
+    font-size: 50px;
+}
+a{
+    color:aquamarine
+}
+a:hover{
+    color: blueviolet;
+}
+.centered-wrapper{
+    width:800px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 100px;
+    background: skyblue;
+  }
+  .centered-wrapper2{
+    width:800px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 100px;
+  }
+  h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+}
